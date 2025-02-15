@@ -1,1 +1,8 @@
-
+{
+    "routes": [
+      {
+        "src": "/(.*)",
+        "dest": "Bengaluru_housing_price_prediction-main/model_deployment.py"
+      }
+    ]
+  }
