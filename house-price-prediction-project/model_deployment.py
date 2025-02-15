@@ -57,5 +57,5 @@ def pred():
     put_text('model accuracy is :', model.score(x_test, y_test))
 
 
-if __name__ == '__main__':
-    pred()
+# if __name__ == '__main__':
+#     pred()
