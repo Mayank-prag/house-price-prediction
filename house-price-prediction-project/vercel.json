@@ -2,7 +2,7 @@
     "routes": [
       {
         "src": "/(.*)",
-        "dest": "model_deployment.py"
+        "dest": "house-price-prediction-project/model_deployment.py"
       }
     ]
   }
